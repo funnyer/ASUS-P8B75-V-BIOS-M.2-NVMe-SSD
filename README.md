@@ -5,10 +5,8 @@
 
 # 所需要的武器和设备
 
-![Alt text](https://github.com/jx120819/ASUS-P8B75-V-BIOS-M.2-NVMe-SSD/blob/master/images/1.PNG)
-
-.AI_Suitell  
-    PS：华硕主板的驱动光盘里面有,如果你找不到光盘就乖乖<a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>吧
+<p>>.AI_Suitell</p>
+<p>>>PS：华硕主板的驱动光盘里面有,如果你找不到光盘就乖乖<a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>吧</p>
 .华硕官方最新BIOS <a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>  
 这是一个 [an example](http://example.com/ "Title") 行内链接。
     PS:华硕官方最新BIOS P8B75-V-ASUS-1608
@@ -28,7 +26,10 @@
         "支持 M.2接口(NVMe协议)SSD的BIOS.zip"
 
     .安装 AI_Suitell 软件,如果你找不到光盘就乖乖 <a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a> 吧
-        从我提供的压缩包安装软件的客官请直接双击 "Setup" 进行安装，安装完成后根据提示重启电脑
+        从我提供的压缩包安装软件的客官请直接双击 "Setup" 进行安装，
+![Alt text](https://github.com/jx120819/ASUS-P8B75-V-BIOS-M.2-NVMe-SSD/blob/master/images/1.PNG)
+
+        安装完成后根据提示重启电脑
         我们只是要日BIOS，所以在安装的过程中只需要勾选ASUS Update这个组件就好了
 
     .运行安装好的 AI_Suitell 软件，点击"更新软件"选项卡，选择 ASUS Update
