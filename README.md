@@ -5,9 +5,9 @@
 
 # 所需要的武器和设备
 
-这是一个 [an example](http://example.com/) 行内链接。
+![Alt text](https://github.com/jx120819/ASUS-P8B75-V-BIOS-M.2-NVMe-SSD/blob/master/images/1.PNG)
 
-.AI_Suitell 
+.AI_Suitell  
     PS：华硕主板的驱动光盘里面有,如果你找不到光盘就乖乖<a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>吧
 .华硕官方最新BIOS <a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>  
 这是一个 [an example](http://example.com/ "Title") 行内链接。
