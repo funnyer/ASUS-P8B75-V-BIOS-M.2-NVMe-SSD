@@ -4,6 +4,7 @@
 文中不涉及安装新系统的内容，请各位看官自行百度
 
 # 所需要的武器和设备
+这是一个 [an example](http://example.com/ "Title") 行内链接。
 
     .AI_Suitell 
         PS：华硕主板的驱动光盘里面有,如果你找不到光盘就乖乖<a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>吧
