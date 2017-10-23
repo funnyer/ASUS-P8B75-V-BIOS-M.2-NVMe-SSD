@@ -8,7 +8,7 @@
     .AI_Suitell 
         PS：华硕主板的驱动光盘里面有,如果你找不到光盘就乖乖<a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>吧
     .华硕官方最新BIOS <a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a>  
-    [id]: <http://example.com/>  "Optional Title Here" 
+    这是一个 [an example](http://example.com/ "Title") 行内链接。
         PS:华硕官方最新BIOS P8B75-V-ASUS-1608
     .支持 M.2接口(NVMe协议)SSD的BIOS <a href="https://share.weiyun.com/ec0ccdf3380cadb7241e420d2060d572">点我下载</a> 
         PS：基于华硕官方BIOS修改而来
